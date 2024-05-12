@@ -1,2 +1,2 @@
 # Rest-API-withoutMapper
-This is a simple project of learning Rest API without model mapper
+This is a simple project of Spring Boot for learning Rest API without using Model Mapper
